@@ -1,0 +1,10 @@
+C:\Users\Jack\Documents\Visual Studio 2017\Projects\snake C\snake C\obj\Debug\snake C.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Documents\Visual Studio 2017\Projects\snake C\snake C\obj\Debug\snake_C.Form1.resources
+C:\Users\Jack\Documents\Visual Studio 2017\Projects\snake C\snake C\obj\Debug\snake_C.Properties.Resources.resources
+C:\Users\Jack\Documents\Visual Studio 2017\Projects\snake C\snake C\obj\Debug\snake C.csproj.GenerateResource.cache
+C:\Users\Jack\Documents\Visual Studio 2017\Projects\snake C\snake C\obj\Debug\snake C.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Documents\Visual Studio 2017\Projects\snake C\snake C\bin\Debug\snake C.exe.config
+C:\Users\Jack\Documents\Visual Studio 2017\Projects\snake C\snake C\bin\Debug\snake C.exe
+C:\Users\Jack\Documents\Visual Studio 2017\Projects\snake C\snake C\bin\Debug\snake C.pdb
+C:\Users\Jack\Documents\Visual Studio 2017\Projects\snake C\snake C\obj\Debug\snake C.exe
+C:\Users\Jack\Documents\Visual Studio 2017\Projects\snake C\snake C\obj\Debug\snake C.pdb
