@@ -1,0 +1,10 @@
+In BlueJ, a program is referred to as a project.
+A program consists of one or more classes.
+Image of practice class with fully shaded area is uncompiled.
+To create a class left click on the New Class button.
+To remove a class right click on the class icon.
+To edit the source code of a class double click on the class icon.
+BlueJ is an IDE.
+A class contains the source code of a program.
+BlueJ is also called a program editor.
+Image of practice class with two diagonal lines in the bottom right corner is compiled.

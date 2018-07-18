@@ -1,0 +1,1 @@
+The average number of caps per prize is: NaN caps
